@@ -1,5 +1,3 @@
-#!/bin/D
+#!/bin/bash
+
 echo "ALX School"
-=======
-echo "ALX School"
->>>>>>> update_script
